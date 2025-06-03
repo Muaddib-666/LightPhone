@@ -4,5 +4,5 @@ This code has been tested on Windows, but not on Mac. Download both the .bat and
 
 If you have album artwork or other non-music files in your folder structure, the CMD will output some text saying something similar to this "Skipping C:/Users/.../Music_test\Battles\Mirrored\folder.jpg: list index out of range". This is just saying that the file type won't be included in the compliation and it can be ignored.
 
-Screenshots:
-![Screenshot 2025-06-03 121928](https://github.com/user-attachments/assets/2a11ce37-8782-4ee9-aafe-11960f5dfb91)
+Screenshot:
+
