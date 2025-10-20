@@ -1,4 +1,4 @@
-This Python script will take a collection of local music files and compiles them into a single track with options for encoding quality and creating a gapless playback. Folders with separate artists or individual albums can be imported and as the audio compiles, album artwork and facts about the album/band are shown (if available).
+This Python script takes a collection of local music files and compiles them into a single track with options for encoding quality and creating a gapless playback. Folders with separate artists or individual albums can be imported and as the audio compiles, album artwork and facts about the album/band are shown (if available).
 
 Download both the .bat and .py files into the same folder. Double click the .bat and that will run the Python script.
 
